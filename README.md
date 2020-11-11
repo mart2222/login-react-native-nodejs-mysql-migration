@@ -10,6 +10,7 @@ No servidor incluir as configurações no arquivo ".env" e no App o arquivo "app
 ## Intalação do servidor
 
 `$ npm install`
+
 `$ npx sequelize db:migrate`
 
 ---
@@ -23,6 +24,7 @@ No servidor incluir as configurações no arquivo ".env" e no App o arquivo "app
 ## Intalação do app
 
 `$ npm install`
+
 `$ react-native link`
 
 ---
