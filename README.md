@@ -3,6 +3,10 @@
 
 ### Projeto em React-Native + Push Notification + Login/Register + NodeJS + Mysql + Migration
 
+## Configurações
+No servidor incluir as configurações no arquivo ".env" e no App o arquivo "app.json", ambos na raiz de cada pasta
+
+
 ## Intalação do servidor
 
 `$ npm install`
